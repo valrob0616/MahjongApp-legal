@@ -4,7 +4,7 @@
 
 These terms appear in-app under **About → Terms of Use**. Host a copy next to [PRIVACY.md](./PRIVACY.md) if a store listing asks for a terms URL.
 
-Replace `rob@imconintl.com` with the publisher’s real contact before submission.
+Replace `rob@loudfh.com` with the publisher’s real contact before submission.
 
 ---
 
@@ -54,4 +54,4 @@ We may update these terms when the app changes. Continued use after an update me
 
 ## Contact
 
-Questions: **rob@imconintl.com** (placeholder — replace with the publisher’s real address before you ship).
+Questions: **rob@loudfh.com** (placeholder — replace with the publisher’s real address before you ship).
