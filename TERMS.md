@@ -4,7 +4,7 @@
 
 These terms appear in-app under **About → Terms of Use**. Host a copy next to [PRIVACY.md](./PRIVACY.md) if a store listing asks for a terms URL.
 
-Replace `rob@loudfh.com` with the publisher’s real contact before submission.
+Published by LFH Inc. (LoudFH). Contact: rob@loudfh.com.
 
 ---
 
@@ -54,4 +54,4 @@ We may update these terms when the app changes. Continued use after an update me
 
 ## Contact
 
-Questions: **rob@loudfh.com** (placeholder — replace with the publisher’s real address before you ship).
+Questions: **rob@loudfh.com**.

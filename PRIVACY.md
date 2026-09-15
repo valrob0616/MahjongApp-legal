@@ -6,9 +6,9 @@ This document is the hosted-ready privacy policy for the Mahjong app (iOS and An
 
 **Before App Store / Play Store submission, the publisher must:**
 
-1. Replace `rob@loudfh.com` with a monitored inbox.
+1. Contact for privacy questions: **rob@loudfh.com**.
 2. Host this file (or an HTML version of it) on HTTPS and put that URL in App Store Connect, Google Play Console, `src/constants/publish.ts`, and `app.json` → `expo.extra.privacyPolicyUrl`.
-3. Do **not** leave `rob@loudfh.com` or `https://YOUR_DOMAIN.example/privacy` in a live store listing.
+3. Hosted privacy URL: https://valrob0616.github.io/MahjongApp-legal/privacy.html
 
 Suggested GitHub Pages URL after you enable Pages on this repo: `https://<github-username>.github.io/MahjongApp/PRIVACY.md` (or convert to a simple HTML page). A raw GitHub URL is a fallback, not ideal for store review.
 
@@ -83,6 +83,6 @@ If the app starts collecting more data (for example analytics or accounts), we w
 
 Questions about privacy: **rob@loudfh.com**
 
-This is a placeholder address for store review. The publisher must replace it with a monitored inbox before submission. Do not treat `rob@loudfh.com` as a real company mailbox.
+Published by LFH Inc. (LoudFH). Contact: rob@loudfh.com.
 
-Hosted policy URL (replace with your live page): **https://YOUR_DOMAIN.example/privacy**
+Hosted policy URL (replace with your live page): **https://valrob0616.github.io/MahjongApp-legal/privacy.html**
