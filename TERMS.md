@@ -1,6 +1,6 @@
 # Terms of Use — Mahjong
 
-**Last updated:** September 15, 2026
+**Last updated:** October 2, 2026
 
 These terms appear in-app under **About → Terms of Use**. Host a copy next to [PRIVACY.md](./PRIVACY.md) if a store listing asks for a terms URL.
 
@@ -16,9 +16,9 @@ By using Mahjong, you agree to these Terms of Use. If you do not agree, do not u
 
 Mahjong is a companion for news, video discovery, and (later) shopping related to the game of mahjong / mah-jongg. It is not a gambling product, not a bank, and not affiliated with YouTube, Amazon, Apple, Google, or any mahjong league unless we say so in writing.
 
-## No accounts in this version
+## Player accounts
 
-This MVP does not provide user accounts. You are responsible for your own device and for any third-party accounts (for example YouTube or Amazon) you use after leaving the app.
+The app saves a player account: a display name, an email address, and the articles and videos you mark as favorites. There is no password. The email is your identity. Entering the same email restores your registration and favorites after you reinstall the app. Anyone who knows the email can open that account. You are responsible for your own device and for any third-party accounts (for example YouTube or Amazon) you use after leaving the app.
 
 ## Third-party videos
 
@@ -46,7 +46,7 @@ To the fullest extent permitted by law, the publisher is not liable for indirect
 
 ## Privacy
 
-Our Privacy Policy explains what this MVP does and does not collect. It is part of how we describe the app for store review.
+Our Privacy Policy explains what the app stores — a display name, an email, and article and video favorites — and what it does not collect. There is no password. Knowing the email is enough to open that account. The Privacy Policy is part of these terms.
 
 ## Changes
 
