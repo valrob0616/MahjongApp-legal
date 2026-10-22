@@ -1,6 +1,6 @@
 # Terms of Use — Mahjong
 
-**Last updated:** October 2, 2026
+**Last updated:** October 22, 2026
 
 These terms appear in-app under **About → Terms of Use**. Host a copy next to [PRIVACY.md](./PRIVACY.md) if a store listing asks for a terms URL.
 
@@ -14,11 +14,15 @@ By using Mahjong, you agree to these Terms of Use. If you do not agree, do not u
 
 ## What the app is
 
-Mahjong is a companion for news, video discovery, and (later) shopping related to the game of mahjong / mah-jongg. It is not a gambling product, not a bank, and not affiliated with YouTube, Amazon, Apple, Google, or any mahjong league unless we say so in writing.
+Mahjong is a companion for news, video discovery, friend play, and (later) shopping related to the game of mahjong / mah-jongg. It is not a gambling product, not a bank, and not affiliated with YouTube, Amazon, Apple, Google, or any mahjong league unless we say so in writing.
 
 ## Player accounts
 
-The app saves a player account: a display name, an email address, and the articles and videos you mark as favorites. There is no password. The email is your identity. Entering the same email restores your registration and favorites after you reinstall the app. Anyone who knows the email can open that account. You are responsible for your own device and for any third-party accounts (for example YouTube or Amazon) you use after leaving the app.
+You sign in with an email address and a password. The app sends a confirmation email so you can confirm that address. After you confirm it, you return to the app and sign in. Favorites stay on the device until the first sign-in. After you sign in, the articles and videos you mark as favorites stay with the account and come back when you sign in again. You are responsible for your password, your own device, and for any third-party accounts (for example YouTube or Amazon) you use after leaving the app.
+
+## Friend play
+
+A signed-in player can open or join an invite-only table and play with friends. Friend play uses the same account: the email and password you sign in with, and the display name shown at the table. Share an invite only with people you want at that table.
 
 ## Third-party videos
 
@@ -46,7 +50,7 @@ To the fullest extent permitted by law, the publisher is not liable for indirect
 
 ## Privacy
 
-Our Privacy Policy explains what the app stores — a display name, an email, and article and video favorites — and what it does not collect. There is no password. Knowing the email is enough to open that account. The Privacy Policy is part of these terms.
+Our Privacy Policy explains what the app stores — a display name, an email, a password, and article and video favorites — and what it does not collect. Favorites stay on the device until the first sign-in. A confirmation email confirms the address you use to sign in. Friend play uses that same account. The Privacy Policy is part of these terms.
 
 ## Changes
 
